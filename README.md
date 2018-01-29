@@ -1,5 +1,12 @@
 # Comp-3004
 
-Team 60
+TEAM 60
 
-Quests of the round table 
+QUESTS OF THE ROUND TABLE
+
+Team Members:
+
+- Moustafa Ghoneim
+-Ibrahim faizullah
+-Abba Amos Gandu
+-Jaskaran Grewal
